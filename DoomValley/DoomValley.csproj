@@ -17,6 +17,7 @@
     <ItemGroup>
         <None Include="../bin/libdoomgeneric_stardew.so" Pack="True" CopyToOutputDirectory="PreserveNewest" />
         <None Include="../bin/doomgeneric_stardew.dll" Pack="True" CopyToOutputDirectory="PreserveNewest" />
+        <None Include="../LICENSE" Pack="True" CopyToOutputDirectory="PreserveNewest" />
     </ItemGroup>
 
 </Project>
