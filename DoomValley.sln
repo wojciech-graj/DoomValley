@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomValley", "DoomValley\DoomValley.csproj", "{77939E9E-4D05-46F8-BBB5-45FE0DCA18BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77939E9E-4D05-46F8-BBB5-45FE0DCA18BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77939E9E-4D05-46F8-BBB5-45FE0DCA18BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77939E9E-4D05-46F8-BBB5-45FE0DCA18BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77939E9E-4D05-46F8-BBB5-45FE0DCA18BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6BFF16-D983-436B-9AEE-65EEB9300D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6BFF16-D983-436B-9AEE-65EEB9300D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6BFF16-D983-436B-9AEE-65EEB9300D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6BFF16-D983-436B-9AEE-65EEB9300D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

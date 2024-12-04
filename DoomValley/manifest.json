@@ -1,0 +1,9 @@
+{
+  "Name": "DoomValley",
+  "Author": "Wojciech Graj",
+  "Version": "0.1.0",
+  "Description": "A Doom arcade machine in Stardew Valley.",
+  "UniqueID": "WojciechGraj.DoomValley",
+  "EntryDll": "DoomValley.dll",
+  "MinimumApiVersion": "4.0.0"
+}

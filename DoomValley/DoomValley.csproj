@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Optimize>true</Optimize>
+        <BundleExtraAssemblies>ThirdParty</BundleExtraAssemblies>
+        <Configurations>Debug;Release</Configurations>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.3.2"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="../bin/libdoomgeneric_stardew.so" Pack="True" CopyToOutputDirectory="PreserveNewest" />
+        <None Include="../bin/doomgeneric_stardew.dll" Pack="True" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
+</Project>
